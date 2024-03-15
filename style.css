@@ -29,3 +29,13 @@ p {
     width: 80%;
     padding-left: 10%;
 }
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: white;
+    font-size: large;
+    font-weight: 700;
+}
