@@ -13,7 +13,7 @@ h1 {
     color: rgb(169, 240, 64);
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 140px;
 }
@@ -56,4 +56,8 @@ p {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.margin {
+    margin-top: 200px;
 }
