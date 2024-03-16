@@ -49,7 +49,7 @@ p {
 }
 
 #cyan {
-    color: aqua;
+    color: rgba(112, 216, 143, 0.87);
 }
 
 .dream-big {
@@ -60,4 +60,42 @@ p {
 
 .margin {
     margin-top: 200px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.expo {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 9px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.Experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.title {
+    color: rgba(245, 74, 74, 0.877);
+}
+
+#ai {
+    border-left: 7px solid tomato;
+}
+
+#robo {
+    border-left: 7px dotted rgb(151, 36, 36);
+}
+
+footer p {
+    text-align: center;
 }
